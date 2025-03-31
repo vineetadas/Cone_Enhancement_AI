@@ -4,6 +4,8 @@ This is a Pytorch implementation of residual in residual transformer generative 
 
 If any portion of this code is used, please cite the following paper in your publication:
 
+V. Das et al. "Artificial Intelligence Assisted Adaptive Optics Imaging Enables Dense Pixel Sampling from Sparse Measurements". 
+
 # System Requirements
 
 ### Prerequisites
